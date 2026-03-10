@@ -4,7 +4,7 @@
 
 (package
  (name solutions)
- (depends ocaml)
+ (depends (ocaml (>= 5.4)))
 )
 
 ; See the complete stanza docs at https://dune.readthedocs.io/en/stable/reference/dune-project/index.html

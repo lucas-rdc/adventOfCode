@@ -7,9 +7,11 @@ https://adventofcode.com/about
 # Content of this repository
 Solutions for Advent of Code problems. 
 
-So far I have implemented solutions for some days of years 2020, 2021, 2022, 2023 and 2024.
+So far I have implemented solutions for some days of years 2019, 2020, 2021, 2022, 2023 and 2024.
 
 ## Languages of each year
+
+2019 - Ocaml
 
 2020 - Javascript (bun)
 
